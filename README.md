@@ -24,7 +24,7 @@ Python, Pandas, Scikit-learn, PuLP, Integer Linear Programming, sensitivity anal
 
 ## Project Notebook
 
-[View the Jupyter Notebook](notebooks/maintenance_optimisation.ipynb)
+[View the Jupyter Notebook](notebooks/GROUP_4_PROJECT_1_PART_B.ipynb)
 
 ## Dataset
 
